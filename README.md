@@ -6,7 +6,7 @@ Run HTML file
 ![JPG](public/20211126_confetti.jpg)
 
 ## MP4
-https://github.com/krycreative07/Confetti-Animation/public/20211126_confetti.mp4
+https://github.com/krycreative07/Confetti-Animation/blob/main/public/20211126_confetti.mp4
 
 ## Convert
 https://ezgif.com/video-to-gif/
