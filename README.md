@@ -14,3 +14,5 @@ https://ezgif.com/video-to-gif/
 ## GIF
 ![GIF](public/20211126_confetti.gif)
 
+# Reference
+https://medium.com/re-write/how-to-make-an-animated-svg-from-scratch-zero-coding-required-ca46c18d2be2
